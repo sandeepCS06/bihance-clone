@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sandeepCS06/bihance-clone.git/static/css/main.fc807e8a.css",
+    "main.js": "/sandeepCS06/bihance-clone.git/static/js/main.81f44291.js",
+    "static/js/453.64eabc23.chunk.js": "/sandeepCS06/bihance-clone.git/static/js/453.64eabc23.chunk.js",
+    "static/media/logo.svg": "/sandeepCS06/bihance-clone.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sandeepCS06/bihance-clone.git/index.html",
+    "main.fc807e8a.css.map": "/sandeepCS06/bihance-clone.git/static/css/main.fc807e8a.css.map",
+    "main.81f44291.js.map": "/sandeepCS06/bihance-clone.git/static/js/main.81f44291.js.map",
+    "453.64eabc23.chunk.js.map": "/sandeepCS06/bihance-clone.git/static/js/453.64eabc23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc807e8a.css",
+    "static/js/main.81f44291.js"
+  ]
+}
